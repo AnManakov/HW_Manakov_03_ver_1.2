@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Пробуем сделать ДЗ WTF");
         System.out.println("Теперь не понятно отправилось на Гит или нет");
+        System.out.println("Отправилось, но не понятся автоматически или это внизу справа что-то нажимал");
     }
 
 }
